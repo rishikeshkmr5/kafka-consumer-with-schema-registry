@@ -146,6 +146,3 @@ Kafka Topic --> KafkaMessageListener --> Business Logic
 
 This is a demo project and does not currently specify a license.
 
----
-
-Let me know if you'd like this exported as a file or want me to customize it further (e.g., with diagrams, badges, or usage examples).
